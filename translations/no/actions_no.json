@@ -6,8 +6,8 @@
       "addingreds": "Add-ingreds",
       "alchemy": "Alkymi",
       "apply": "Søke om",
-      "assemble": "montering",
-      "assessment": "evaluering",
+      "assemble": "Montering",
+      "assessment": "Evaluering",
       "attach": "Feste",
       "attune": "Attune",
       "autoafk": "Auto-afk",
@@ -37,7 +37,7 @@
       "channel": "Kanal",
       "chant": "Syng",
       "charge": "Lad",
-      "chase": "jage",
+      "chase": "Jage",
       "check": "Kryss av",
       "checkcharge": "Sjekk lading",
       "checkcharges": "Sjekk kostnader",
@@ -160,7 +160,7 @@
       "lookin": "Se inn",
       "lookthrough": "Se gjennom",
       "loop": "Løkke",
-      "loot": "Tyvegods",
+      "loot": "Stjel",
       "makescarynoise": "Lag skummel lyd",
       "mash": "Mos",
       "master": "Herre",
@@ -510,7 +510,7 @@
       "locking": "Låse",
       "locks": "Låser",
       "logstorage": "Logg-lagring",
-      "loot": "Tyvegods",
+      "loot": "Stjel",
       "lure": "Lokke",
       "makeover": "Makeover",
       "makeunfinishedpotions": "Lag uferdige potion(er)",
@@ -552,7 +552,7 @@
       "piratescove": "Piratvik",
       "place": "Plass",
       "pluck": "Plukke",
-      "poke": "stikke",
+      "poke": "Stikke",
       "pop": "Pop",
       "portpiscarilius": "Port Piscarilius",
       "portsarim": "Port Sarim",
@@ -1468,7 +1468,7 @@
       "walkhere": "Gå her",
       "examine": "Undersøk"
     },
-    "playeractions":  {
+    "playeractions": {
       "follow": "Følg",
       "tradewith": "Bytt med"
     }
