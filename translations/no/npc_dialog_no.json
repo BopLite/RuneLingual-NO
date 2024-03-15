@@ -2282,7 +2282,7 @@
       "name": "Cornelius"
     },
     "corporealbeast": {
-      "name": "Beast Body"
+      "name": "Kroppslig beist"
     },
     "corporealcritter": {
       "name": "Kroppslig skapning"
@@ -2633,7 +2633,7 @@
       "name": "Mørk Ankou"
     },
     "darkbeast": {
-      "name": "Dark Beast"
+      "name": "Mørkt beist"
     },
     "darkcore": {
       "name": "Mørk kjerne"
@@ -7453,7 +7453,7 @@
       "name": "Naghead"
     },
     "nailbeast": {
-      "name": "Nail Beast"
+      "name": "Neglebeist"
     },
     "nakasajovkai": {
       "name": "Nakasa Jovkai"
@@ -8837,43 +8837,43 @@
       "name": "Pensjonert sjømann"
     },
     "revenantcyclops": {
-      "name": "Revenant Cyclops"
+      "name": "Gjenoppstående Kyklop"
     },
     "revenantdarkbeast": {
-      "name": "Revenant Shadow Beast"
+      "name": "Gjenoppstående Skyggebeist"
     },
     "revenantdemon": {
-      "name": "Revenant Demon"
+      "name": "Gjenoppstående Demon"
     },
     "revenantdragon": {
-      "name": "Revenant Dragon"
+      "name": "Gjenoppstående Drage"
     },
     "revenantgoblin": {
-      "name": "Revenant Goblin"
+      "name": "Gjenoppstående Goblin"
     },
     "revenanthellhound": {
-      "name": "Revenant Hellhound"
+      "name": "Gjenoppstående Helveteshund"
     },
     "revenanthobgoblin": {
-      "name": "Revenant Hobgoblin"
+      "name": "Gjenoppstående Hobgoblin"
     },
     "revenantimp": {
-      "name": "Revenant Imp"
+      "name": "Gjenoppstående Imp"
     },
     "revenantknight": {
-      "name": "Revenant Knight"
+      "name": "Gjenoppstående Ridder"
     },
     "revenantmaledictus": {
-      "name": "Gjenoppliver Maledictus"
+      "name": "Gjenoppstående Maledictus"
     },
     "revenantork": {
-      "name": "Ork Revenant"
+      "name": "Ork Gjenoppstående"
     },
     "revenantpyrefiend": {
-      "name": "Revenant Pyromancer"
+      "name": "Gjenoppstående Pyromanser"
     },
     "rewardsguardian": {
-      "name": "Bounty Guardian"
+      "name": "Dusørvakt"
     },
     "rhazien": {
       "name": "Rhazien"
